@@ -1,4 +1,5 @@
 places_to_visit = ['Stockholm', 'Toronto', 'San Francisco', 'Auckland', 'Seattle']
+
 print(places_to_visit)
 
 #alphabetical order
